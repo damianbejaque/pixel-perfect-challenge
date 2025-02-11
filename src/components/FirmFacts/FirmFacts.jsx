@@ -36,5 +36,4 @@ const FirmFacts = () => {
         </div>
     );
 };
-
 export default FirmFacts;
