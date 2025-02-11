@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: clamp(14px, 1vw, 20px); /* Adjust as needed */
+}
+
+body {
+  font-family: Open Sans;
+  font-size: clamp(14px, 1.5vw, 18px);
+}
+
